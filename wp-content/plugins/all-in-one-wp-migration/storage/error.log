@@ -1,0 +1,6 @@
+Oct 12 2021 13:58:12
+{"type":8,"message":"Undefined variable: ET_CORE_VERSION","file":"C:\\xampp\\htdocs\\portfolio\\wp-content\\themes\\Divi\\core\\init.php","line":43}
+
+Oct 12 2021 13:58:55
+{"type":2,"message":"unlink(C:\\xampp\\htdocs\\portfolio\/wp-content\/temp-write-test-1634047134): No such file or directory","file":"C:\\xampp\\htdocs\\portfolio\\wp-admin\\includes\\file.php","line":1494}
+
